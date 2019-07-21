@@ -22,5 +22,5 @@ matplotlibのインストールの仕方、グラフの描き方のコード
 ![picture1](https://user-images.githubusercontent.com/53108106/61595997-cda80f00-ac38-11e9-894d-029bb284e45a.png)
 
 グラフ:
-
+![picture2](https://user-images.githubusercontent.com/53108106/61595998-cda80f00-ac38-11e9-9872-1dcfbc7af565.png)
 
