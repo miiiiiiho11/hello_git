@@ -18,6 +18,9 @@ https://shizenkarasuzon.hatenablog.com/entry/2018/11/16/205129
 matplotlibのインストールの仕方、グラフの描き方のコード
 
 # 実行の様子
-動画撮影:picture1参照
-グラフ:picture2参照
+動画撮影:
+![picture1](https://user-images.githubusercontent.com/53108106/61595997-cda80f00-ac38-11e9-894d-029bb284e45a.png)
+
+グラフ:
+
 
